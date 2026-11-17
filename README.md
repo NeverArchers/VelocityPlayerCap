@@ -1,0 +1,1 @@
+VelocityPlayerCap is a plugin that adds a player cap to the velocity online players, instead of having to sort out all servers to match velocity max players, you can now cap players as if you didnt have a proxy
